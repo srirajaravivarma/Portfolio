@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Portrait placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dce9e4"/><stop offset="1" stop-color="#e8dfd1"/></linearGradient>
+    <linearGradient id="coat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#244e67"/><stop offset="1" stop-color="#247a83"/></linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <circle cx="400" cy="350" r="178" fill="#c7d8d0"/>
+  <path d="M95 1000c22-236 136-360 305-360s283 124 305 360" fill="url(#coat)"/>
+  <path d="M270 405c0-105 55-178 130-178s130 73 130 178-55 180-130 180-130-75-130-180" fill="#d6a77d"/>
+  <path d="M268 378c8-137 71-207 140-207 83 0 133 75 129 185-42-47-105-68-174-64-31 2-64 34-95 86" fill="#263b42"/>
+  <text x="400" y="905" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" fill="#ffffff" letter-spacing="5">REPLACE PORTRAIT</text>
+</svg>
