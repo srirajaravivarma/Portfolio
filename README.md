@@ -2,6 +2,12 @@
 
 A responsive personal portfolio built with React and Vite. Edit **one content file**—[`src/portfolio.js`](src/portfolio.js)—to customize the person, links, section copy, expertise, projects, experience, metrics, and contact details shown across the page. The React layout and visual design live separately and usually do not need to be edited.
 
+## New to coding? We have you covered.
+
+You do not need to understand every file to make this portfolio your own. Open the project in an IDE with an AI coding assistant and share [`AI_INSTRUCTIONS.md`](AI_INSTRUCTIONS.md) with it. The instructions guide the AI to ask for the details it needs, update your portfolio, and avoid making up facts. Most personal information can be entered in one place: [`src/portfolio.js`](src/portfolio.js).
+
+Using ChatGPT or another AI chat without access to your IDE? Attach `AI_INSTRUCTIONS.md` and `src/portfolio.js` to the chat. If you want to build your portfolio from a resume, attach that too.
+
 ## Quick start
 
 Requirements: Node.js and npm.
@@ -113,4 +119,6 @@ Import the GitHub repository as a Vite project. Use `npm run build` as the build
 ## License
 
 This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for details.
+
+
 
